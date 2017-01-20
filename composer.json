@@ -1,0 +1,14 @@
+{
+    "name": "klm/wechat",
+    "description": "Wechat SDK",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Klm",
+            "email": "klm777x7@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
